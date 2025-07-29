@@ -7,7 +7,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Explore the fully deployed Notely app on Vercel:
 
-👉 [Visit Notely Live on Vercel](https://coin-geeko-cryptotracker.vercel.app/)
+👉 [Visit Coin-Geeko-Cryptotracker Live on Vercel](https://coin-geeko-cryptotracker.vercel.app/)
 
 
 
