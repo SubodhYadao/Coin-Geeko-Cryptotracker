@@ -9,6 +9,8 @@ Explore the fully deployed Notely app on Vercel:
 
 👉 [Visit Notely Live on Vercel](https://coin-geeko-cryptotracker.vercel.app/)
 
+
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
